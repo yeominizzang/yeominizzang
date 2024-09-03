@@ -9,11 +9,11 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/yeominizzang/github-readme-stats)
 
-<a href="https://github.com/yeominizzang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeominizzang&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/yeominizzang/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeominizzang&repo=convoychat" />
-</a>
 
+
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+
+
+
+[![Solved.ac yeominizzang](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyeomin)](https://solved.ac/kimyeomin/)
 
