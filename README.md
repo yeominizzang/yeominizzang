@@ -17,3 +17,5 @@
 
 [![Solved.ac yeominizzang](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyeomin)](https://solved.ac/kimyeomin/)
 
+<p align="right">
+<a href="yeominizzang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
